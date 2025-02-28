@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🔭 I’m currently working on Fintech.
+- 🌱 I’m currently learning Microservices Architectues in depth.
+- 👯 I’m looking to collaborate complex microservice project. so contact me mdasraful.islam@gmail.com
 
 <!--
 **mdasrafulislam/mdasrafulislam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
