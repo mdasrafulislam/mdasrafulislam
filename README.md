@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on Fintech.
-- 🌱 I’m currently learning Microservices Architectues in depth.
+- 🌱 I'm currently learning Microservices Architecture in depth.
 - 👯 I'm looking to collaborate on a complex microservices project. If you're interested, feel free to email me at mdasraful.islam@gmail.com
 
 <!--
