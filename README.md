@@ -1,7 +1,8 @@
 ## Hi there 👋
 - 🔭 I’m currently working on Fintech.
-- 🌱 I'm currently learning Microservices Architecture in depth.
+- 🌱 I’m currently researching and implementing RAG applications and exploring how they can be integrated into agentic AI workflows.
 - 👯 I'm looking to collaborate on a complex microservices project. If you're interested, feel free to email me at mdasraful.islam@gmail.com
+
 
 <!--
 **mdasrafulislam/mdasrafulislam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
